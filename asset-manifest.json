@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/dv-port/static/css/main.8d3be482.chunk.css",
+    "main.js": "/dv-port/static/js/main.a92de72d.chunk.js",
+    "main.js.map": "/dv-port/static/js/main.a92de72d.chunk.js.map",
+    "runtime~main.js": "/dv-port/static/js/runtime~main.d7bfdf03.js",
+    "runtime~main.js.map": "/dv-port/static/js/runtime~main.d7bfdf03.js.map",
+    "static/css/2.266e55a5.chunk.css": "/dv-port/static/css/2.266e55a5.chunk.css",
+    "static/js/2.2e6f954d.chunk.js": "/dv-port/static/js/2.2e6f954d.chunk.js",
+    "static/js/2.2e6f954d.chunk.js.map": "/dv-port/static/js/2.2e6f954d.chunk.js.map",
+    "index.html": "/dv-port/index.html",
+    "precache-manifest.560873a0fcd8abd17b5d5beb96d9ce26.js": "/dv-port/precache-manifest.560873a0fcd8abd17b5d5beb96d9ce26.js",
+    "service-worker.js": "/dv-port/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/dv-port/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.8d3be482.chunk.css.map": "/dv-port/static/css/main.8d3be482.chunk.css.map",
+    "static/media/battleship.png": "/dv-port/static/media/battleship.ab3d417e.png",
+    "static/media/coffey.png": "/dv-port/static/media/coffey.909d100c.png",
+    "static/media/cordapp.png": "/dv-port/static/media/cordapp.75b55d32.png",
+    "static/media/crypto.png": "/dv-port/static/media/crypto.d3bcd409.png",
+    "static/media/cyberpunk.png": "/dv-port/static/media/cyberpunk.eb47bd03.png",
+    "static/media/david.jpg": "/dv-port/static/media/david.20ae9f68.jpg",
+    "static/media/david.png": "/dv-port/static/media/david.b48e3a2c.png",
+    "static/media/freeukgen.png": "/dv-port/static/media/freeukgen.336ff268.png",
+    "static/media/github.svg": "/dv-port/static/media/github.36e782c8.svg",
+    "static/media/linkedin.svg": "/dv-port/static/media/linkedin.0183c031.svg",
+    "static/media/rollerball.png": "/dv-port/static/media/rollerball.b8996c77.png",
+    "static/media/triton.png": "/dv-port/static/media/triton.75ea1d27.png",
+    "static/media/twitter.svg": "/dv-port/static/media/twitter.3251f438.svg"
+  }
+}
