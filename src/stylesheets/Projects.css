@@ -1,0 +1,24 @@
+.project-row {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.project-block a {
+    color: #000 !important;
+}
+
+.project-block a:hover {
+    text-decoration: none;
+}
+
+.repoImage img {
+    width: 30px;
+}
+
+.blockImg {
+    height: 197px;
+}
+
+.card-footer {
+    min-height: 3.5em;
+}
