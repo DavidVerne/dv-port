@@ -1,5 +1,7 @@
 <h1>DV Portfolio Site</h1>
-- My new portfolio site
-- Built with React
+<ul>
+  <li>My new portfolio site</li>
+  <li>Built with React</li>
+</ul>
 
-View here: https://davidverne.github.io/dv-port/
+<h4>View here: https://davidverne.github.io/dv-port/</h4>
